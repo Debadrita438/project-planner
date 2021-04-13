@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create New Homapage Banner AGAIN~",
+      "details": "Lorem ipsem dolor Lorem ipsem dolor Lorem ipsem dolor Lorem ipsem dolor",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Create Ecommerce Website",
+      "details": "blast",
+      "complete": true
+    },
+    {
+      "title": "Add a new home page",
+      "details": "Lorem ipsem",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
